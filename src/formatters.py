@@ -1,6 +1,6 @@
 """
 Output formatting utilities for task-queue.
-Updated: 2026-07-12
+Updated: 2026-07-18
 """
 
 import logging
