@@ -1,6 +1,6 @@
 """
 Custom exception classes for task-queue.
-Updated: 2026-07-18
+Updated: 2026-07-30
 """
 
 import logging
